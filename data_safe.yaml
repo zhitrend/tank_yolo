@@ -1,0 +1,12 @@
+names:
+- tank
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tank-gahbb
+  url: https://universe.roboflow.com/zhitrend/tank-gahbb/dataset/3
+  version: 3
+  workspace: zhitrend
+test: "/Users/admin/Desktop/yolo_train_\u526F\u672C/./test/images"
+train: "/Users/admin/Desktop/yolo_train_\u526F\u672C/./train/images"
+val: "/Users/admin/Desktop/yolo_train_\u526F\u672C/./valid/images"
